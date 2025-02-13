@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhumika-MC
 - 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Java full stack developement 
+- 🌱 I’m currently learning MERN full stack developement 
 - 💞️ I’m looking to collaborate on Best company 
 - 📫 How to reach me 
 - 😄 Pronouns: She/Her
