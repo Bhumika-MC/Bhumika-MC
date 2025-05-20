@@ -1,4 +1,4 @@
-readme_content = """
+
 Hi there, I'm Bhumika-MC
 
 Aspiring Software Developer | MERN Stack Learner | Open to Collaboration
@@ -14,7 +14,7 @@ Aspiring Software Developer | MERN Stack Learner | Open to Collaboration
 💬 Pronouns: She/Her
 
 ⚡ Fun Fact: I enjoy turning ideas into real-world solutions through code!
-"""
+
 
 <!---
 Bhumika-MC/Bhumika-MC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
