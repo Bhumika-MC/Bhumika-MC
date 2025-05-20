@@ -1,4 +1,4 @@
-# Hi there, I'm Bhumika-MC!
+# Hi there, I'm Bhumika M C!
 
 **Passionate Developer | Web Tech Enthusiast | Lifelong Learner**
 
