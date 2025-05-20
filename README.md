@@ -1,22 +1,52 @@
+# Hi there, I'm Bhumika-MC!
 
-Hi there, I'm Bhumika-MC
+**Passionate Developer | Web Tech Enthusiast | Lifelong Learner**
 
-Aspiring Software Developer | MERN Stack Learner | Open to Collaboration
+---
 
-👀 Interests: Software development, Web technologies, UI/UX
+### 👩‍💻 About Me
 
-🌱 Currently Learning: MERN Full Stack Development
+- Dedicated to building responsive and engaging web applications.
+- Interested in full-stack development, especially modern JavaScript frameworks.
+- Eager to learn and grow in the world of software engineering.
+- Focused on writing clean, maintainable, and efficient code.
 
-🤝 Open to Collaborate On: Meaningful projects or internships with top tech companies
+---
 
-📫 Reach Me At: bhumikamc2208@gmail.com
+### 🔭 Currently Learning
 
-💬 Pronouns: She/Her
+- JavaScript (ES6+), React.js & Node.js  
+- Git & GitHub for version control  
+- Responsive design and web accessibility  
+- Exploring backend technologies & databases  
 
-⚡ Fun Fact: I enjoy turning ideas into real-world solutions through code!
+---
 
+### 🤝 Open to Collaborate
 
-<!---
-Bhumika-MC/Bhumika-MC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Excited to collaborate on beginner-friendly open-source projects, hackathons, and tech communities. Always ready to learn from others and share my knowledge.
+
+---
+
+### 📫 Contact Me
+
+- **Email:** bhumikamc@example.com  
+- **LinkedIn:** [Your LinkedIn link]  
+- **Portfolio:** [Your portfolio link, if available]  
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning complex problems into simple, elegant interfaces—coding is my favorite creative outlet!
+
+---
+
+### 📊 GitHub Stats
+
+![Bhumika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhumika-MC&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumika-MC&layout=compact&theme=radical)
+
+---
+
+*“The best error message is the one that never shows up.” – Thomas Fuchs*
