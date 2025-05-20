@@ -72,4 +72,4 @@ I enjoy turning complex problems into simple, elegant interfaces—coding is my 
 
 ---
 
-*“The best error message is the one that never shows up.” – Thomas Fuchs*
+*“Code is not just code; it’s a story being told to the computer.”*
