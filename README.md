@@ -26,7 +26,8 @@
 
 Responsive website design,  
 HTML, CSS, JavaScript, Bootstrap, Python, SQL, CSS Flexbox,  
-MongoDB, Node.js, React.js, Express.js
+MongoDB, Node.js, React.js, Express.js,
+Git and GitHub 
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -54,8 +55,7 @@ Excited to collaborate on beginner-friendly open-source projects, hackathons, an
 ### 📫 Contact Me
 
 - **Email:** bhumikamc@example.com  
-- **LinkedIn:** [Your LinkedIn link]  
-- **Portfolio:** [Your portfolio link, if available]  
+- **LinkedIn:** [https://www.linkedin.com/in/bhumika-m-c-74251525b]  
 
 ---
 
