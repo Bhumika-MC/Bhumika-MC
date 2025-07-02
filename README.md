@@ -1,6 +1,6 @@
 # Hi there, I'm Bhumika M C! 👋
 
-**Skilled Full-Stack Developer | Web Tech Enthusiast | Lifelong Learner**
+**Skilled Full-Stack Developer | Web Tech Enthusiast | Actively Seeking Full-Time Opportunities**
 
 ---
 
@@ -9,7 +9,15 @@
 - Passionate about building responsive, user-centric web applications.  
 - Skilled in full-stack development using the MERN Stack.  
 - Committed to writing clean, maintainable, and efficient code.  
-- Always curious and driven to grow in the world of software engineering.
+- Eager to grow as a developer and contribute to impactful projects.
+
+---
+
+### 🚀 Open to Work
+
+💼 **Actively looking for Full-Time Roles as a Full-Stack / Frontend Developer (Remote or On-site)**  
+📍 Open to opportunities across India and Remote positions  
+📢 Feel free to reach out if you have a role that fits my profile!
 
 ---
 
@@ -20,7 +28,6 @@
 - **Programming:** Python  
 - **Tools:** Git, GitHub, VS Code  
 - **Frameworks:** React.js  
-- **Version Control:** Git & GitHub  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -42,15 +49,16 @@
 ### 🔭 Currently Exploring
 
 - Advanced React.js concepts  
-- Node.js + MongoDB integration  
-- REST APIs and Express middleware  
-- Deployment with Netlify, Vercel, and Render  
+- REST APIs & Express.js middleware  
+- Backend integrations with MongoDB  
+- Deployment using Netlify, Render & Vercel  
 
 ---
 
-### 🤝 Open to Collaborate
+### 🤝 Let's Connect
 
-Excited to collaborate on beginner-friendly open-source projects, hackathons, and tech communities. Always ready to learn from others and share my knowledge.
+Excited to connect with recruiters, developers, and tech professionals.  
+Looking for full-time roles only — ready to contribute and grow in a dynamic team.
 
 ---
 
@@ -63,7 +71,7 @@ Excited to collaborate on beginner-friendly open-source projects, hackathons, an
 
 ### ⚡ Fun Fact
 
-I enjoy turning complex problems into simple, elegant interfaces—coding is my favorite creative outlet!
+I love solving real-world problems through clean, user-friendly web interfaces — coding is my favorite creative outlet!
 
 ---
 
