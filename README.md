@@ -48,7 +48,7 @@
 
 ### 🔭 Currently Exploring
 
-- Advanced React.js concepts  
+- Advanced React.js, Node.js concepts  
 - REST APIs & Express.js middleware  
 - Backend integrations with MongoDB  
 - Deployment using Netlify, Render & Vercel  
