@@ -1,33 +1,26 @@
-# Hi there, I'm Bhumika M C!
+# Hi there, I'm Bhumika M C! 👋
 
-**Passionate Developer | Web Tech Enthusiast | Lifelong Learner**
+**Skilled Full-Stack Developer | Web Tech Enthusiast | Lifelong Learner**
 
 ---
 
 ### 👩‍💻 About Me
 
-- Dedicated to building responsive and engaging web applications.
-- Interested in full-stack development, especially modern JavaScript frameworks.
-- Eager to learn and grow in the world of software engineering.
-- Focused on writing clean, maintainable, and efficient code.
+- Passionate about building responsive, user-centric web applications.  
+- Skilled in full-stack development using the MERN Stack.  
+- Committed to writing clean, maintainable, and efficient code.  
+- Always curious and driven to grow in the world of software engineering.
 
 ---
 
-### 🔭 Currently Learning
+### ✅ Skills & Technologies
 
-- JavaScript (ES6+), React.js & Node.js  
-- Git & GitHub for version control  
-- Responsive design and web accessibility  
-- Exploring backend technologies & databases  
-
----
-
-### 🛠️ Technical Skills
-
-Responsive website design,  
-HTML, CSS, JavaScript, Bootstrap, Python, SQL, CSS Flexbox,  
-MongoDB, Node.js, React.js, Express.js,
-Git and GitHub 
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap, Responsive Design, Flexbox  
+- **Backend:** Node.js, Express.js, MongoDB, SQL  
+- **Programming:** Python  
+- **Tools:** Git, GitHub, VS Code  
+- **Frameworks:** React.js  
+- **Version Control:** Git & GitHub  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -46,6 +39,15 @@ Git and GitHub
 
 ---
 
+### 🔭 Currently Exploring
+
+- Advanced React.js concepts  
+- Node.js + MongoDB integration  
+- REST APIs and Express middleware  
+- Deployment with Netlify, Vercel, and Render  
+
+---
+
 ### 🤝 Open to Collaborate
 
 Excited to collaborate on beginner-friendly open-source projects, hackathons, and tech communities. Always ready to learn from others and share my knowledge.
@@ -54,8 +56,8 @@ Excited to collaborate on beginner-friendly open-source projects, hackathons, an
 
 ### 📫 Contact Me
 
-- **Email:** bhumikamc@example.com  
-- **LinkedIn:** [https://www.linkedin.com/in/bhumika-m-c-74251525b]  
+- **Email:** bhumikamc2208@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/bhumika-m-c-74251525b](https://www.linkedin.com/in/bhumika-m-c-74251525b)
 
 ---
 
@@ -72,4 +74,4 @@ I enjoy turning complex problems into simple, elegant interfaces—coding is my 
 
 ---
 
-*“Code is not just code; it’s a story being told to the computer.”*
+> *“Code is not just code; it’s a story being told to the computer.”*
